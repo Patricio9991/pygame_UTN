@@ -1,0 +1,4 @@
+python -m venv nombre_entorno
+game_env\Scrpits\Activate.ps1  activar entorno (en poweshell )| deactivate desactivar entorno
+
+source env/Scripts/activate (git bash) pra cmd lo mismo
